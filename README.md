@@ -1,8 +1,3 @@
----
-title: README for run_analysis.R
-output: html_document
----
-
 This script processes data from the Human Activity Recognition Using Smartphones Dataset to extract the average means and standard deviations of each variable for a given subject and activity, returning a tidy data frame containing these values.
 
 The data is downloaded from this link:
